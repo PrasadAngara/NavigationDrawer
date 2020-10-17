@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+
+<item android:id="@+id/nav_camera"
+    android:title="import"
+    android:icon="@drawable/ic_camera"
+
+    />
+    <item android:id="@+id/gall"
+        android:title="Gallery"
+        android:icon="@drawable/ic_baseline_attach_file_24"
+
+        />
+    <item android:id="@+id/nav_slideshow"
+        android:title="slide show"
+        android:icon="@drawable/ic_baseline_slideshow_24"
+
+        />
+
+
+</group>
+</menu>
